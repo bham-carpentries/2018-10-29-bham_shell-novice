@@ -3,6 +3,8 @@ layout: lesson
 root: .
 ---
 
+This is the version taught at the [Programming with R, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-10-29-bham/) workshop on Monday 29th and Tuesday 30th October
+
 The Unix shell has been around longer than most of its users have been alive.
 It has survived so long because it's a power tool
 that allows people to do complex things with just a few keystrokes.
